@@ -1,36 +1,29 @@
 # 👋 Hi, I'm Jason Sze
 
-**Computer Science + Statistics @ University of Illinois Urbana-Champaign (UIUC)**
+**Product Manager Intern @ IBM · Computer Science + Statistics @ UIUC**
 
-Aspiring **Software Engineer / Machine Learning Engineer**
+I build AI systems end-to-end — taking products from zero to one and owning the full stack from UX architecture and prototyping through to implementation.
 
-I’m a junior at UIUC studying **Computer Science and Statistics**, focused on building **scalable software systems, data-driven applications, and intelligent machine learning solutions**.
+Right now I'm a PM intern at IBM working on **agentic AI for Asset Lifecycle Management**, and I lead a **9-person engineering team** at Illinois Business Consulting.
 
-My work sits at the intersection of **software engineering, AI/ML, and data systems**. I enjoy designing systems that combine **clean architecture, high-performance computation, and real-world data** to solve complex problems.
+I'm most excited about **vertical AI** and making agents more trustworthy through **governed context** — giving agents the right information with the right guardrails so they can be trusted to act.
 
-Some areas I’m particularly interested in:
+---
 
-* **Machine Learning & AI Systems** — predictive modeling, deep learning, and intelligent agents
-* **Full-Stack Software Engineering** — building scalable applications with modern frameworks
-* **Data Science & Analytics** — extracting insights from large datasets and building forecasting models
-* **Cloud & Distributed Systems** — designing systems that operate efficiently at scale
+# 🚀 What I'm Building
 
-I’m always exploring new technologies and building projects that push my technical boundaries — from **machine learning models and forecasting pipelines to full-stack applications and intelligent automation tools.**
-
-📌 I’m currently interested in opportunities in:
-
-* **Software Engineering**
-* **Machine Learning Engineering**
-* **AI Infrastructure**
-* **Data-Driven Systems**
-
-Feel free to explore my projects or connect with me.
+- **[ELeet](https://eleetcoder.com/)** — a live, voice-to-voice AI mock-interview platform for technical interviews. Grew to **80+ users** organically.
+- **Friday** — a personal AI voice assistant with wake-word detection, proactive triggers, and a persistent user profile.
+- **Apollo** — an agentic system that designs, generates, and deploys its own [MCP](https://modelcontextprotocol.io/) tools on the fly (HackIllinois 2026).
+- **Learnable** — turns course materials into narrated, animated video lectures using LLMs + ManimGL.
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Sze-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/jason-sze30)
+[![Website](https://img.shields.io/badge/Website-szejason.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.szejason.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Sze-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jason-sze30)
+[![Email](https://img.shields.io/badge/Email-contact%40szejason.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@szejason.com)
 
 ---
 
@@ -52,34 +45,31 @@ Feel free to explore my projects or connect with me.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Cloud SQL](https://img.shields.io/badge/CloudSQL-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/VertexAI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Data Science & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white)
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jsze30\&theme=dark\&hide_border=false\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Jsze30&theme=dark&hide_border=false&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jsze30\&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jsze30&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsze30\&theme=dark\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsze30&theme=dark&layout=compact)
