@@ -22,9 +22,9 @@ I'm most excited about **vertical AI** and making agents more trustworthy throug
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.szejason.com/">Website</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/jason-sze30">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:contact@szejason.com">contact@szejason.com</a>
+  <a href="https://www.szejason.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/jason-sze30"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@szejason.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
