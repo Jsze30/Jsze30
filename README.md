@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason Sze
+# Hi, I'm Jason Sze
 
 **Product Manager Intern @ IBM · Computer Science + Statistics @ UIUC**
 
@@ -10,7 +10,7 @@ I'm most excited about **vertical AI** and making agents more trustworthy throug
 
 ---
 
-# 🚀 What I'm Building
+# What I'm Building
 
 - **ELeet** — a live, voice-to-voice AI mock-interview platform for technical interviews. Grew to **80+ users** organically.
 - **Friday** — a personal AI voice assistant with wake-word detection, proactive triggers, and a persistent user profile.
@@ -19,7 +19,7 @@ I'm most excited about **vertical AI** and making agents more trustworthy throug
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://www.szejason.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
@@ -29,7 +29,7 @@ I'm most excited about **vertical AI** and making agents more trustworthy throug
 
 ---
 
-# 💻 Skills
+# Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,js,html,css,postgres,react,nodejs,fastapi,flask,tailwind,pytorch,docker,kubernetes,aws,gcp,git&perline=10" />
@@ -42,13 +42,3 @@ I'm most excited about **vertical AI** and making agents more trustworthy throug
 | **Backend** | Node.js, FastAPI, Flask |
 | **AI / ML** | PyTorch, LangChain, NumPy, Pandas, SciPy, Plotly |
 | **Cloud & DevOps** | Docker, Kubernetes, AWS, Google Cloud, Git |
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jsze30&theme=dark&hide_border=false&include_all_commits=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jsze30&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsze30&theme=dark&layout=compact)
