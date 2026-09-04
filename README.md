@@ -1,10 +1,10 @@
 # Hi, I'm Jason Sze
 
-**Product Manager Intern @ IBM · Computer Science + Statistics @ UIUC**
+**Prev Product Manager Intern @ IBM · Computer Science + Statistics @ UIUC**
 
 I build AI systems end-to-end, taking products from zero to one and owning the full stack from UX architecture and prototyping through to implementation.
 
-Right now I'm a PM intern at IBM working on **agentic AI for Asset Lifecycle Management**, and I lead a **9-person engineering team** at Illinois Business Consulting.
+This past summer I was a PM intern at IBM working on **agentic AI for Asset Lifecycle Management**, and I lead a **9-person engineering team** at Illinois Business Consulting.
 
 I'm most excited about **vertical AI** and making agents more trustworthy through **governed context**: giving agents the right information with the right guardrails so they can be trusted to act.
 
